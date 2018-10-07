@@ -18,4 +18,8 @@ public class newCircle { // Создали класс
     public double getSquare() { // метод который вычисляет площадь
         return Math.PI*radius*radius;
     }
+
+    public double dlinaOkr (double radius1) { //лина окружности
+        return 2*Math.PI*radius1;
+    }
 }

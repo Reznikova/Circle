@@ -1,3 +1,6 @@
 package cenzyra;
 
-public class ChangeByaka {}
+import java.util.Scanner;
+
+public class ChangeByaka {
+}
